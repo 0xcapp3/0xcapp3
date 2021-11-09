@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/29161223/140908198-85e84da4-55b7-4677-a81e-6c058dd86c15.gif">
+  <img width="600" height="475" src="https://user-images.githubusercontent.com/29161223/140908198-85e84da4-55b7-4677-a81e-6c058dd86c15.gif">
 </p>
    
 <!--   ![homer](https://user-images.githubusercontent.com/29161223/140896740-5f86c908-5b9e-4d5b-be89-16591c9823e7.gif)-->
